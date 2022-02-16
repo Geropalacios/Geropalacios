@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geropalacios
-- 👀 I’m interested in learning about programming 
-- 🌱 I’m currently learning html, csss and javascript. Also Im IT recruiter
+- 👀 I’m interested in learning about programming
+- 🌱 I am currently learning html, csss and javascript. I am also an IT recruiter
 - 📫 How to reach me geronimo.palacios@grupo-giga.com
 
 <!---
